@@ -13,9 +13,9 @@ console.log(lista_compra)
 
 // - Una lista de tus 3 películas favoritas (objetos con propiedades: titulo, director, fecha)
 const peliculas = [
-    {'titulo': 'La llegada', 'directorx': 'Denis Villeneuve', 'Fecha': 2016},
-    {'titulo': 'Animales nocturnos', 'directorx': 'Tom Ford', 'Fecha': 2016},
-    {'titulo': 'El quinto elemento', 'directorx': 'Luc Besson', 'Fecha': 1997}
+    {titulo: 'La llegada', directorx: 'Denis Villeneuve', Fecha: 2016},
+    {titulo: 'Animales nocturnos', directorx: 'Tom Ford', Fecha: 2016},
+    {titulo: 'El quinto elemento', directorx: 'Luc Besson', Fecha: 1997}
 ]
 
 // - Una nueva lista que contenga las películas posteriores al 1 de enero de 2010 (utilizando filter)
